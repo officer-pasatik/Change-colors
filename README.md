@@ -1,0 +1,2 @@
+# Change-colors
+This is a web app that you can quickly use to generate color schemes. All you need to do is press the spacebar, and you'll get a good selection of color schemes. If you don't like the current one, you can simply hit the spacebar again and will give you a new one. If you like one color, but want to refresh the other ones, you can lock the color that you like and the generator will create colors that work with the locked one. Clicking the text button will copy a selected color.
