@@ -20,6 +20,7 @@ document.addEventListener('click', (event) => {
     node.classList.toggle('fa-lock')
   } else if (type === 'copy') {
     copyToClickboard(event.target.textContent)
+    alert('The color was succesfully copied!')
   }
 })
 
